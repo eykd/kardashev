@@ -1,0 +1,12 @@
+.coverage
+pip-selfcheck.json
+__pycache__
+bin
+lib
+include
+man
+*.egg-info
+.Python
+*.db
+*.log
+.cache/v/cache

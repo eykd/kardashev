@@ -1,0 +1,9 @@
+behave==1.2.5
+ensure==0.6.2
+factory_boy==2.8.1
+flake8==3.2.1
+hypothesis==3.6.1
+ipython
+ipdb
+pytest==3.0.5
+pytest-cov==2.4.0
